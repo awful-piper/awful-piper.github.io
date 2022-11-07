@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> awful_pipewr operator </title>
 </head>
 <body>
 <nav>
