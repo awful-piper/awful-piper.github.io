@@ -7,7 +7,7 @@
 <nav>
    
 <div >
-    <h1>Placeholder</h1>
+    <h1>awful-blog</h1>
     <p> <a href="/about">Read more about my life...</a></p>
 </div>
 <footer>
